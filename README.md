@@ -1,6 +1,8 @@
 <h1>AHMED SOLIMAN</h1>
 
-I have the ability to build a complete web application from start to finish, with a strong focus on functionality, user experience, and scalability. My expertise is essential to creating high-quality, responsive, and secure web applications that meet the needs of clients and users alike.
+I believe that good design is not just about aesthetics, but also about usability and accessibility. That's why I always strive to create websites that are intuitive, user-friendly, and accessible to all users, regardless of their abilities or devices.
+
+In addition to web development, I'm also passionate about learning and staying up-to-date with the latest web technologies and trends. I enjoy collaborating with other developers and designers, and I'm always looking for new opportunities to challenge myself and expand my skillset.
 
 <h2>Skills</h2>
 
